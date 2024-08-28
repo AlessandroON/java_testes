@@ -1,3 +1,4 @@
+package dominio;
 
 class Apartamento extends Imovel{
   private byte numeroDeQuartos;
