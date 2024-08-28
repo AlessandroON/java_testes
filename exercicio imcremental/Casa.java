@@ -1,4 +1,4 @@
-
+package dominio;
 public class Casa extends Imovel{
   private byte numeroDeQuartos;
   private double area;
